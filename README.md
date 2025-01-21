@@ -21,9 +21,10 @@
 ## Установка
 
 1. Клонируйте репозиторий:
-   bash
+```bash
    [git clone https://github.com/вашпользователь/вашрепозиторий.git](https://github.com/Mister-Gallardo/React_Query_App.git)
-   
+```   
+
 2. Перейдите в директорию проекта:
 ```bash
    cd ваш_репозиторий
