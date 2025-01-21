@@ -1,20 +1,6 @@
 # React Query + React + TypeScript
 
-Это проект, созданный с использованием React, TypeScript и библиотеки React Query для управления состоянием и запросами к СОБСТВЕННОМУ API. Проект демонстрирует использование различных подходов к выполнению запросов и мутаций данных.
-
-## (основная) Структура проекта
-
-src/
-├── store/
-│   ├── useQuery/
-│   │   ├── EasyQuery.tsx
-│   │   └── NormalQuery.tsx
-│   ├── useMutation/
-│   │   ├── EasyMutation.tsx
-│   │   └── NormalMutation.tsx
-│   └── QueryAndMutation.tsx
-├── App.tsx
-└── main.tsx
+Это проект, созданный с использованием React, TypeScript и библиотеки React Query для управления состоянием и запросами к СОБСТВЕННОМУ API (https://mockapi.io/projects). Проект демонстрирует использование различных подходов к выполнению запросов и мутаций данных.
 
 ### Описание файлов
 
